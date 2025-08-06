@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrestaurant_website"]=self["webpackChunkrestaurant_website"]||[]).push([[655],{7655:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=t(3396);function r(e,n,t,r,c,s){const a=(0,u.up)("WeddingSchedule");return(0,u.wg)(),(0,u.j4)(a)}var c=t(9514),s={name:"ScheduleView",components:{WeddingSchedule:c.Z}},a=t(89);const d=(0,a.Z)(s,[["render",r]]);var i=d}}]);
+//# sourceMappingURL=655.723d54df.js.map
